@@ -1,4 +1,5 @@
-<div align="center"><h1>Hey! I'm Sarwesh</h1></center>
+<h1>Hey! I'm Sarwesh</h1>
+<div align="center">
 
 [![Sarwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarweshparajuli)](https://github.com/anuraghazra/github-readme-stats) 
 
